@@ -2,7 +2,7 @@
 
 Obsidian Portable is your ultimate knowledge base and note organizer, now available in a portable format! Manage your notes, ideas, and knowledge base seamlessly with this portable application.
 
-![Obsidian Portable Logo]<img src="https://obsidian.md/images/obsidian-logo-gradient.svg" width="200" />
+<img src="https://obsidian.md/images/obsidian-logo-gradient.svg" width="200" />
 
 ## Features
 
